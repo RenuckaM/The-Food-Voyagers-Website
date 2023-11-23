@@ -1,7 +1,6 @@
 # The-Food-Voyagers-Website
 The Food Voyagers website for restaurant using HTML,CSS,JavaScript and Bootstrap
-
-                  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>THE FOOD VOYAGERS</title>
@@ -75,12 +74,7 @@ The Food Voyagers website for restaurant using HTML,CSS,JavaScript and Bootstrap
     <div class="container">
             <p><center></span></p>
 </div>
-<p><center><b><font color="#ffffff" >“Food is symbolic of love when words are inadequate.”</b></font></center></p>
-        <p><center><b><font color="#f5f906" >Food is one of the basic necessities of life. Food contains nutrients—substances essential for the growth, repair, and maintenance of body tissues and for the regulation of vital processes. Nutrients provide the energy our bodies need to function.</b></font></center></p>
-        <p><center><b><font color="#aeec98" >“ Eat breakfast like a king, lunch like a prince, and dinner like a pauper.”</b></font></center></p>
-    </h3> 
-</body>
-</html>
+
               
               
 
