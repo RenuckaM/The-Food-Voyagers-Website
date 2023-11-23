@@ -7,21 +7,13 @@ The Food Voyagers website for restaurant using HTML,CSS,JavaScript and Bootstrap
                   <li class="active"><a href="IndianFood.html">Indian Foods</a></li>
                   <li class="active"><a href="ChineeseFood.html">Chinese Foods</a></li>
                   <li class="active"><a href="ItalianFood.html">Italian Foods</a></li>
+                  <li class="active"><a href="Beverages.html">Beverages</a></li>
+                  <li class="active"><a href="Starter.html">Starter</a></li>
+                  <li class="active"><a href="Login_page.html">Login_page</a></li>
+                  <li class="active"><a href="Sign_up.html">Sign_up</a></li>
+                    
+                  
 
-                  <li class="dropdown">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Menu<span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                      
-                        <li><a href="Starter.html">Starter</a></li>
-                        <li><a href="Beverages.html">Beverages</a></li>
-                        
-                    </ul>
-                  </li>
-                </ul>
-                <ul class="nav navbar-nav navbar-right">
-                  <li><a href="Sign_up.html"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                  <li><a href="Login_page.html"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                </ul>
             
        
 
