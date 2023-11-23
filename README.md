@@ -57,23 +57,7 @@ The Food Voyagers website for restaurant using HTML,CSS,JavaScript and Bootstrap
               </div>
             </div>
           </nav>
-         <center>
-          <script>
-            function greetUser() {
-                const name = prompt("Wecome!Enter your name:");
-                if (name) {
-                    alert("Hello, " + name + "!");
-                } else {
-                    alert("Hello, anonymous!");
-                }
-            }
-        </script>
-        <button onclick="greetUser()">Say Hello</button>
-      </center>
-        <h2>
-    <div class="container">
-            <p><center></span></p>
-</div>
+       
 
               
               
