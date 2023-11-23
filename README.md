@@ -54,9 +54,7 @@ The Food Voyagers website for restaurant using HTML,CSS,JavaScript and Bootstrap
                   <li><a href="Sign_up.html"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
                   <li><a href="Login_page.html"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
                 </ul>
-              </div>
-            </div>
-          </nav>
+            
        
 
               
