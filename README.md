@@ -36,6 +36,13 @@ This is a comprehensive restaurant website project showcasing my skills in HTML,
 
 For a live demo, visit [The Food Voyagers Website Demo](https://renuckam.github.io/The-Food-Voyagers-Website/).
 
+                  <li class="active"><a href="Home.html">Home</a></li>
+                  <li class="active"><a href="Aboutus.html">About us</a></li>
+                  <li class="active"><a href="Contactus.html">Contact us</a></li>
+                  <li class="active"><a href="IndianFood.html">Indian Foods</a></li>
+                  <li class="active"><a href="ChineeseFood.html">Chinese Foods</a></li>
+                  <li class="active"><a href="ItalianFood.html">Italian Foods</a></li>
+
 ## Contributing
 
 If you'd like to contribute, please fork the repository and create a pull request. Issues and suggestions are also welcome!
