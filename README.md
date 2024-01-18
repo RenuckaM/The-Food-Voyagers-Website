@@ -37,7 +37,7 @@ This is a comprehensive restaurant website project showcasing my skills in HTML,
 
 ## Demo
 
-For a live demo, visit [The Food Voyagers Website Demo](https://renuckam.github.io/The-Food-Voyagers-Website/).
+For a live demo, visit [!here](https://renuckam.github.io/The-Food-Voyagers-Website/).
 
 <li class="active"><a href="Home.html">Home</a></li>
 <li class="active"><a href="Aboutus.html">About us</a></li>
