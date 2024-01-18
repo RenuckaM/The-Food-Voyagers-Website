@@ -28,13 +28,13 @@ This is a comprehensive restaurant website project showcasing my skills in HTML,
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/restaurant-website.git
+         git clone https://github.com/your-username/restaurant-website.git
 
 2. Open the `home.html` file in your web browser.
 
 ## Demo
 
-For a live demo, visit [Restaurant Website Demo](https://your-username.github.io/restaurant-website).
+For a live demo, visit [The Food Voyagers Website Demo](https://renuckam.github.io/The-Food-Voyagers-Website/).
 
 ## Contributing
 
