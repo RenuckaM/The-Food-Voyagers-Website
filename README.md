@@ -30,7 +30,10 @@ This is a comprehensive restaurant website project showcasing my skills in HTML,
 
          git clone https://github.com/your-username/restaurant-website.git
 
-2. Open the `home.html` file in your web browser.
+         https://github.com/RenuckaM/The-Food-Voyagers-Website
+
+3. Open the `home.html` file in your web browser.
+               
 
 ## Demo
 
